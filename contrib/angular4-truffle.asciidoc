@@ -3,7 +3,8 @@
 Let's build an end to end Application using Truffle, Angular JS 4 and finally we will see
 everything in action.
 
-=== Use case
+=== Use case:
+
 
 We will create a smart contract named `TransferToFriend` whereby:
 
