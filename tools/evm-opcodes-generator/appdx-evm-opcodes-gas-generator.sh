@@ -11,7 +11,8 @@ ORIGIN_FILE=https://raw.githubusercontent.com/trailofbits/evm-opcodes/master/REA
 # OPCODES MARKER in the converted asciidoc file
 OPCODES_BEGIN_MARKER=Table
 echo "The OPCODES_BEGIN_MARKER is $OPCODES_BEGIN_MARKER."
-
+OPCODES_BEGIN_MARKER=Table
+echo "The OPCODES_BEGIN_MARKER is $OPCODES_BEGIN_MARKER."
 OPCODES_END_MARKER=instruction-details
 echo "The OPCODES_END_MARKER is $OPCODES_END_MARKER."
 
